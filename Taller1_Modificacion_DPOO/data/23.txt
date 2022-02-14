@@ -1,0 +1,19 @@
+ID del pedido: 23
+Nombre del cliente: Juan Manuel Rodriguez
+Dirección del cliente: Calle 25
+Precio Total: 68250
+Devuelta: 750
+Producto: corral
+Calorias: 546
+Producto: corral queso
+Calorias: 580
+Producto: papas en casco grandes
+Calorias: 600
+Combo: combo corral queso
+Calorias: 1177
+Ingrediente: piña
+Calorias: 50
+Bebida: gaseosa
+Calorias: 147
+Cantida de calorías total: 3100
+FELIZ D�?A

@@ -1,0 +1,15 @@
+ID del pedido: 98
+Nombre del cliente: Juan Manuel
+Dirección del cliente: c
+Precio Total: 43550
+Devuelta: 450
+Producto: corral
+Calorias: 546
+Combo: combo corral
+Calorias: 1143
+Ingrediente: piña
+Calorias: 50
+Bebida: gaseosa
+Calorias: 147
+Cantida de calorías total: 1886
+FELIZ D�?A
